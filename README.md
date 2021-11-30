@@ -14,6 +14,12 @@ Essa questão é ainda mais importante nos dias de hoje, uma vez que o setor de 
 
 Encontrar "quais" caracteristicas influenciam e "como" elas direcionam a precificação de veículo são questões chaves nesse setor de negócios. Características como a quilometragem, a idade do carro, o consumo médio têm sido descrito como influenciadoras dessa precificação (ENGERS; HARTMANN; STERN, 2009; MONBURINON et al., 2018). Porém, as características podem influenciar diferentemente nessa precificação. Por exemplo, para certos modelos, quanto mais recente for o veículo mais alto tenderá a ser o seu valor. Por outro lado, veículos com maior quilometragem e maior consumo médio de combustível tendem a possuir menor preço. Dessa forma, analisar como as características direcionam o preço do veículo é também importante.
 
+## Objetivo, hipótese e previsão
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/target-gb6c805921_640.png)
+
+É nesse contexto que objetivei construir um Modelo de Machine Learning que atuasse na previsão de preços de veículos usados baseados em suas características. Para este projeto utilizei duas características dos veículos, que são (1) a quilometragem total do carro e (2) o consumo médio. A hipótese é que ambas as caracteristicas influenciam no preço. Já a previsão é de que quanto maior for a quilometragem e o consumo de combustível do veículo, menor será o preço do veículo.
+
 
 - Parte A: Importação e limpeza dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python) para ir a parte A).
 
