@@ -40,7 +40,7 @@ O modelo preditivo permitirá a tomada de decisões que visem a maximização do
 
 ## Resultados
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/resultados.jpg)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/resultados_b.jpg)
 
 O tipo de modelo escolhido foi o de árvore de decisão com profundidade de valor 10. Esse modelo apresentou o menor valor de EQM dentre todos os modelos gerados, o qual foi de 4.42. Isso indica que o valor previsto tem um erro de 2.21 e isso para a área de negócio significa que para cada preço previsto há um erro de $2210,00 na estimativa do preço final, isso baseado na kilometragem e consumo médio do veículo (Fig. 1).
 
