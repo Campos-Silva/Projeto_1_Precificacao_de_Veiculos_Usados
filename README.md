@@ -16,7 +16,7 @@ Encontrar "quais" caracteristicas influenciam e "como" elas direcionam a precifi
 
 ## Objetivo, hipótese e previsão
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/target-gb6c805921_640.png)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/alvo_b.png)
 
 É nesse contexto que objetivei construir um Modelo de Machine Learning que atuasse na previsão de preços de veículos usados baseados em suas características. Para este projeto utilizei duas características dos veículos, que são (1) a quilometragem total do carro e (2) o consumo médio. A hipótese é que ambas as caracteristicas influenciam no preço. Já a previsão é de que quanto maior for a quilometragem e o consumo de combustível do veículo, menor será o preço do veículo.
 
