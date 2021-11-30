@@ -54,3 +54,20 @@ O modelo preditivo permitirá a tomada de decisões que visem a maximização do
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
 </p>
 
+
+
+## Referências Bibliográficas
+
+
+- EL PAÍS. Furor no mercado de carros usados e na construção civil expõe as bolhas econômicas no Brasil da pandemia. 2021. Available at: https://brasil.elpais.com/economia/2021-05-24/furor-no-mercado-de-carros-usados-e-na-construcao-civil-expoe-as-bolhas-economicas-no-brasil-da-pandemia.html.
+
+- ENGERS, MAXIM; HARTMANN, MONICA; STERN, STEVEN. ANNUAL MILES DRIVE USED CAR PRICES. J. Appl. Econ, vol. 24, p. 1–33, 2009. https://doi.org/10.1002/jae. FENAUTO. Vendas de carros usados mantêm viés positivo. 2021. Available at: https://www.fenauto.org.br/index.php?view=single&post_id=895.
+
+- FOLHA. Venda de carros usados cresce 55 % no Brasil em 2021. 2021. Available at: https://estudio.folha.uol.com.br/conectaauto/2021/10/olx-lanca-conecta-autos-evento-online-e-gratuito-para-profissionais-do-mercado-automotivo.shtml.
+
+- MONBURINON, Nitis; CHERTCHOM, Prajak; KAEWKIRIYA, Thongchai; RUNGPHEUNG, Suwat; BUYA, Sabir; BOONPOU, Pitchayakit. Prediction of Prices for Used Car by Using Regression Models. 2018. Proceedings of 2018 5th International Conference on Business and Industrial Research: Smart Technology for Next Generation of Information, Engineering, Business and Social Science, ICBIR 2018. Bangkok: IEEE, 2018. p. 115–119. https://doi.org/10.1109/ICBIR.2018.8391177.
+
+- OU, Shiqi; LI, Wan; LI, Jie; LIN, Zhenhong; HE, Xin; BOUCHARD, Jessey; PRZESMITZKI, Steven. Relationships between vehicle pricing and features: Data driven analysis of the Chinese vehicle market. Energies, vol. 13, no. 12, p. 1–25, 2020. https://doi.org/10.3390/en13123088.
+PROVOST, Foster; FAWCETT, Tom. Data Science para Negócios. 1a. Rio de Janeiro: Alta Books, 2016.
+
+- UFPR. Método de Reamostragem. 2021. Available at: http://cursos.leg.ufpr.br/ML4all/apoio/reamostragem.html.
