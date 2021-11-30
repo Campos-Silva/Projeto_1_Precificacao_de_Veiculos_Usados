@@ -1,6 +1,6 @@
 # Projeto 1: "Problema de negócio - Precificação de veículos usados"
 
-## Introdução:
+## Introdução
 
 ![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/comprar_carro_duvida_c.png)
 
