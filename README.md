@@ -30,13 +30,33 @@ O modelo preditivo permitirá a tomada de decisões que visem a maximização do
 
 ![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/anotacao_b.png)
 
-
+### Pra fins didáticos eu separei esse projeto em três partes:
 
 - Parte A: Importação e limpeza dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python) para ir a parte A).
 
 - Parte B: Exploração dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para ir a parte B).
 
 - Parte C: Construção e avaliação de Modelos de Machine Learning (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) para ir a parte C).
+
+## Resultados
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/resultados.jpg)
+
+O tipo de modelo escolhido foi o de árvore de decisão com profundidade de valor 10. Esse modelo apresentou o menor valor de EQM dentre todos os modelos gerados, o qual foi de 4.42. Isso indica que o valor previsto tem um erro de 2.21 e isso para a área de negócio significa que para cada preço previsto há um erro de $2210,00 na estimativa do preço final, isso baseado na kilometragem e consumo médio do veículo (Fig. 1).
+
+## Discussão
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/discussao_b.jpg)
+
+Esse modelo final permite que veículos usados e seminovos sejam precificados de forma baseada em um conjunto de dados do setor de negócios, o qual servirá como guia na tomada de decisões orientadas em dados, fator essencial para empresas (PROVOST; FAWCETT, 2016). O uso do modelo permite, por exemplo, que uma agência decida se compra ou não um veículo de terceiros baseado nas caracteristicas do veículo e seu preço repassado pelo terceiro. Caso o preço repassado a ela seja similar ou dentro da faixa de erro desse modelo (entre $2100,00) a agência, se fechar acordo de compra, poderá lucrar na revenda ao vender por um preço maior do que ela comprou. Além disso, essa mesma agência poderá ter clientes mais satisfeitos uma vez que não estará cobrando preços abusivos na revenda de veículos. Isso porque baseará a precificação em tabelas de preços adequadas com as caracteristicas do veículo. Isso poderá trazer vantagens competitivas a essa agência frente a outras do mesmo setor de negócios (PROVOST; FAWCETT, 2016).
+Dessa forma, o modelo serve como guia para a tomada de decisões, não baseada em intuição, mas sim orientadas em dados. E ainda assim, esse modelo preditivo beneficiará tanto comprador como vendedor. Uma vez que esse setor de negócios gira grandes quantidades de recursos financeiros em todo o mundo a tomada de decisões baseada em análises preditivas, como as obtidas por esse modelo, possibiita que seja maximizada os lucros finais nesse setor como um todo.
+
+
+## Conclusão
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/carro_venda_c.jpg)
+
+O setor de negócios de compra e venda de veículos usados e seminovos está em pleno crescimento no Brasil atualmente, e é uma área que movimenta grande quantidade de recursos financeiros em todo o mundo. O fornecimento de modelos preditivos que associem o preço desses veículos as suas caracteristicas permite maximização dos lucros e minimização de perdas ocasionados pela não cotação adequada desse preço ao respectivo veículo. Dessa forma, esse modelo preditivo aqui criado possibilita servir como um guia na precificação, sendo importante ferramenta para essa área de negócios.
 
 
 
@@ -54,10 +74,7 @@ O modelo preditivo permitirá a tomada de decisões que visem a maximização do
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
 </p>
 
-
-
 ## Referências Bibliográficas
-
 
 - EL PAÍS. Furor no mercado de carros usados e na construção civil expõe as bolhas econômicas no Brasil da pandemia. 2021. Available at: https://brasil.elpais.com/economia/2021-05-24/furor-no-mercado-de-carros-usados-e-na-construcao-civil-expoe-as-bolhas-economicas-no-brasil-da-pandemia.html.
 
