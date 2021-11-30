@@ -30,9 +30,9 @@ O modelo preditivo permitirá a tomada de decisões que visem a maximização do
 
 ![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/anotacao_b.png)
 
-### Pra fins didáticos eu separei esse projeto em três partes:
+Para fins didáticos eu separei esse projeto em três partes. Cada parte contêm uma etapa essencial dos trabalhos de Data Science que são:
 
-- Parte A: Importação e limpeza dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python) para ir a parte A).
+-  "Parte A: Importação e limpeza dos dados" (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python) para ir a parte A).
 
 - Parte B: Exploração dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para ir a parte B).
 
