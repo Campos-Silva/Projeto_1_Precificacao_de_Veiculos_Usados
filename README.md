@@ -58,8 +58,8 @@ Dessa forma, o modelo serve como guia para a tomada de decisões, não baseada e
 
 O setor de negócios de compra e venda de veículos usados e seminovos está em pleno crescimento no Brasil atualmente, e é uma área que movimenta grande quantidade de recursos financeiros em todo o mundo. O fornecimento de modelos preditivos que associem o preço desses veículos as suas caracteristicas permite maximização dos lucros e minimização de perdas ocasionados pela não cotação adequada desse preço ao respectivo veículo. Dessa forma, esse modelo preditivo aqui criado possibilita servir como um guia na precificação, sendo importante ferramenta para essa área de negócios.
 
-
-
+____
+____
 
 ## Autor:
 
@@ -73,6 +73,9 @@ O setor de negócios de compra e venda de veículos usados e seminovos está em 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: andrei.10@hotmail.com<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
 </p>
+
+____
+____
 
 ## Referências Bibliográficas
 
