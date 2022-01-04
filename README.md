@@ -38,7 +38,7 @@ Para fins didáticos eu separei esse projeto em quatro partes. Cada parte contê
 
 - ["Parte C: Construção e avaliação de Modelos de Machine Learning"](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python);
 
-- ["Parte D: Modelo em Produção"](https://github.com/Campos-Silva/deploy_carros_streamlit).
+- ["Parte D: Modelo em Produção"](https://share.streamlit.io/campos-silva/deploy_carros_streamlit/main/deploy_1_carros.py).
 
 ## Resultados
 
